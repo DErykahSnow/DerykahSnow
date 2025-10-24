@@ -60,6 +60,7 @@ To apply and expand my cybersecurity knowledge through hands-on projects, contin
     <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash/Shell_Scripting-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
+
 ## 📜 Certifications
 
 <div>
