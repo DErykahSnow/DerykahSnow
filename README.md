@@ -15,12 +15,12 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Scope, goals, and risk assessment report      | <a href="https://docs.google.com/document/d/1x7eXa_tuLbLXDd1245ZRAMDhk5ifSo83fBmMZbeIbtA/edit?tab=t.0#heading=h.evidx83t54sc">Detection Lab</a>|
-| Incident report analysis                      | <a href="https://google.com">Detection Lab</a>|
-| File permissions in Linux                     | SOC Automation Lab|
-| Vulnerability Assessment Report               | SOC Automation Lab|
-| Incident handler's journal                    | SOC Automation Lab|
-| Apply filters to SQL queries                  | SOC Automation Lab|
-| Algorthm for file updates in Python           | SOC Automation Lab|
+| Incident report analysis                      | <a href="https://docs.google.com/document/d/1JseSfw-I9Zf3aWZsx8J3XtA_FeKtydCxfDQ1qzP9dSM/edit?tab=t.0">Detection Lab</a>|
+| File permissions in Linux                     | <a href="https://docs.google.com/document/d/1G-lR8r3nOFlT9xLkcV4FSRILtYfdP989q8fdVQn94t4/edit?tab=t.0">SOC Automation Lab</a>|
+| Vulnerability Assessment Report               | <a href="https://docs.google.com/document/d/1EET7jz139xD6TxcWARgFASTimzvjAvAOL03ayXoXRLQ/edit?tab=t.0#heading=h.5x0d5h95i329">SOC Automation Lab</a>|
+| Incident handler's journal                    | <a href="https://docs.google.com/document/d/1AAIiCEhS20-4ueN_-6u8JGHnkb1ncmOv4Uk1puhXoM0/edit?tab=t.0">SOC Automation Lab</a>|
+| Apply filters to SQL queries                  | <a href="https://docs.google.com/document/d/1gEeiAn1pafx0hWdSGDB02y-PdavFUkK0WdDMxFNV-WU/edit?tab=t.0#heading=h.adnh333husy">SOC Automation Lab</a>|
+| Algorthm for file updates in Python           | <a href="https://docs.google.com/document/d/1M45Y_vXrPJagwKw6tLx4zI4PBcfXM8gwOKqnviSUqaI/edit?tab=t.0#heading=h.dooa9fyvnog2">SOC Automation Lab</a>|
 
 
 ## Tools
