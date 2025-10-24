@@ -14,12 +14,14 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scope, goals, and risk assessment report      | <a href="[https://google.com](https://docs.google.com/document/d/1x7eXa_tuLbLXDd1245ZRAMDhk5ifSo83fBmMZbeIbtA/edit?tab=t.0)">Detection Lab</a>|
+| Incident report analysis                      | <a href="https://google.com">Detection Lab</a>|
+| File permissions in Linux                     | SOC Automation Lab|
+| Vulnerability Assessment Report               | SOC Automation Lab|
+| Incident handler's journal                    | SOC Automation Lab|
+| Apply filters to SQL queries                  | SOC Automation Lab|
+| Algorthm for file updates in Python           | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
