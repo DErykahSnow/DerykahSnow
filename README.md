@@ -70,6 +70,11 @@ To apply and expand my cybersecurity knowledge through hands-on projects, contin
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Botium Toys: Scope, Goals, and Risk Assessment Report
+- Incident Report Analysis
+- File Permissions in Linux
+- Vulnerability Assessment Report
+- Incident Handler’s Journal
+- Apply Filters to SQL Queries
+- Algorithm for File Updates in Python
 
