@@ -7,19 +7,19 @@ Passionate about technology and cybersecurity, with a strong interest in protect
 ## Objective
 
 
-My journey in computer science has sparked a strong passion for cybersecurity. I am eager to transition into the field and apply my skills in a Security Operations Center (SOC) environment as a Tier 1 Analyst.
+To apply and expand my cybersecurity knowledge through hands-on projects, continuous learning, and practical experience. I aim to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst, focusing on threat detection, incident response, and system protection.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Risk Assessment & Management                  | <a href="https://docs.google.com/document/d/1x7eXa_tuLbLXDd1245ZRAMDhk5ifSo83fBmMZbeIbtA/edit?tab=t.0#heading=h.evidx83t54sc">Detection Lab</a>|
-| Incident Response & Analysis                  | <a href="https://docs.google.com/document/d/1JseSfw-I9Zf3aWZsx8J3XtA_FeKtydCxfDQ1qzP9dSM/edit?tab=t.0">Detection Lab</a>|
-| Linux System Security                         | <a href="https://docs.google.com/document/d/1G-lR8r3nOFlT9xLkcV4FSRILtYfdP989q8fdVQn94t4/edit?tab=t.0">SOC Automation Lab</a>|
-| Vulnerability Assessment                      | <a href="https://docs.google.com/document/d/1EET7jz139xD6TxcWARgFASTimzvjAvAOL03ayXoXRLQ/edit?tab=t.0#heading=h.5x0d5h95i329">SOC Automation Lab</a>|
-| Incident handler's journal                    | <a href="https://docs.google.com/document/d/1AAIiCEhS20-4ueN_-6u8JGHnkb1ncmOv4Uk1puhXoM0/edit?tab=t.0">SOC Automation Lab</a>|
-| Database Security & Query Optimization        | <a href="https://docs.google.com/document/d/1gEeiAn1pafx0hWdSGDB02y-PdavFUkK0WdDMxFNV-WU/edit?tab=t.0#heading=h.adnh333husy">SOC Automation Lab</a>|
-| Automation & Scripting                        | <a href="https://docs.google.com/document/d/1M45Y_vXrPJagwKw6tLx4zI4PBcfXM8gwOKqnviSUqaI/edit?tab=t.0#heading=h.dooa9fyvnog2">SOC Automation Lab</a>|
+| Risk Assessment & Management                  | <a href="https://docs.google.com/document/d/1x7eXa_tuLbLXDd1245ZRAMDhk5ifSo83fBmMZbeIbtA/edit?tab=t.0#heading=h.evidx83t54sc">Google Docs URLs</a>|
+| Incident Response & Analysis                  | <a href="https://docs.google.com/document/d/1JseSfw-I9Zf3aWZsx8J3XtA_FeKtydCxfDQ1qzP9dSM/edit?tab=t.0">Google Docs URLs</a>|
+| Linux System Security                         | <a href="https://docs.google.com/document/d/1G-lR8r3nOFlT9xLkcV4FSRILtYfdP989q8fdVQn94t4/edit?tab=t.0">Google Docs URLs</a>|
+| Vulnerability Assessment                      | <a href="https://docs.google.com/document/d/1EET7jz139xD6TxcWARgFASTimzvjAvAOL03ayXoXRLQ/edit?tab=t.0#heading=h.5x0d5h95i329">Google Docs URLs</a>|
+| Incident handler's journal                    | <a href="https://docs.google.com/document/d/1AAIiCEhS20-4ueN_-6u8JGHnkb1ncmOv4Uk1puhXoM0/edit?tab=t.0">Google Docs URLs</a>|
+| Database Security & Query Optimization        | <a href="https://docs.google.com/document/d/1gEeiAn1pafx0hWdSGDB02y-PdavFUkK0WdDMxFNV-WU/edit?tab=t.0#heading=h.adnh333husy">Google Docs URLs</a>|
+| Automation & Scripting                        | <a href="https://docs.google.com/document/d/1M45Y_vXrPJagwKw6tLx4zI4PBcfXM8gwOKqnviSUqaI/edit?tab=t.0#heading=h.dooa9fyvnog2">Google Docs URLs</a>|
 
 
 ## Tools
