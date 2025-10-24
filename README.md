@@ -14,7 +14,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Scope, goals, and risk assessment report      | <a href="[https://google.com](https://docs.google.com/document/d/1x7eXa_tuLbLXDd1245ZRAMDhk5ifSo83fBmMZbeIbtA/edit?tab=t.0)">Detection Lab</a>|
+| Scope, goals, and risk assessment report      | <a href="https://google.com">Detection Lab</a>|
 | Incident report analysis                      | <a href="https://google.com">Detection Lab</a>|
 | File permissions in Linux                     | SOC Automation Lab|
 | Vulnerability Assessment Report               | SOC Automation Lab|
