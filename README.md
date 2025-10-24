@@ -22,29 +22,44 @@ To apply and expand my cybersecurity knowledge through hands-on projects, contin
 | Automation & Scripting                        | <a href="https://docs.google.com/document/d/1M45Y_vXrPJagwKw6tLx4zI4PBcfXM8gwOKqnviSUqaI/edit?tab=t.0#heading=h.dooa9fyvnog2">Google Docs URLs</a>|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🧰 Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-555555?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Traceroute-708090?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint & System Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux_Command_Line-333333?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-chmod/chown-4B0082?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Viewer-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Process_Explorer-4169E1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Log Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Stack_(ELK)-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Vulnerability & Threat Management
+<div>
+    <img src="https://img.shields.io/badge/-OpenVAS-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys/Nessus_(Familiarity)-B22222?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT&CK_Framework-8B0000?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Scripting & Automation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-003B57?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash/Shell_Scripting-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</div>
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
