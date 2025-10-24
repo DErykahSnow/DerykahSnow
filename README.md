@@ -10,7 +10,6 @@ Passionate about technology and cybersecurity, with a strong interest in protect
 My journey in computer science has sparked a strong passion for cybersecurity. I am eager to transition into the field and apply my skills in a Security Operations Center (SOC) environment as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
